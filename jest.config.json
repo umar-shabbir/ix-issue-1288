@@ -1,0 +1,4 @@
+{
+  "transformIgnorePatterns": ["node_modules/(?!(@siemens|@stencil))"],
+  "testEnvironment": "jsdom"
+}
